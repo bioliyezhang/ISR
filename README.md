@@ -1,3 +1,4 @@
+
 ISR
 Infer Splicing Regulator:
 ISR is a Python based tool to infer Key splicing regulator from differential splicing results.
@@ -41,19 +42,25 @@ Python setup.py install --prefix=="PATH of your choise"
  3.3 Specific Examples:
    3.3.1 Input as a BED format, Not knowing the Splicing regulator regulation in human
    （See examples/1-human-without-direction folder)
+   
     Command line: 
+    
     python ISR_PATH/ISR_v1.1.py -i hnRNPH_SupTable4_hnRNPH.1_PMID19749754_reference_hg19.txt \
     -r hg19_Splicing_SF15_ref_20170205_single.bed -t BED
    
    3.3.2 Input as a MISO format, knowing the Splicing regulator regulation in human
     （See examples/2-human-with-direction folder)
+    
     Command line:
+    
     python ISR_PATH/ISR_v1.1.py -i ALK_RNAi_control_vs_treated.miso_bf.txt \
     -r hg19_Splicing_SF24_ref_20170225_combine.bed -e hg19_feedin_regulation_matrix.txt
     
     3.3.3 Input as a BED format, Not knowing the Splicing regulator regulation in mouse
     (See examples/3-mouse-without-direction folder)
+    
     Command line:
+    
     python ISR_PATH/ISR_v1.1.py -i ESRP_mm10_ESRP1_PMID27050523_reference.txt \
     -r mm10_Splicing_SF5_ref_20170205_single.bed -t BED
     
