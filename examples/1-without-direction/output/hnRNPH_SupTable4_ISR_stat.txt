@@ -1,0 +1,16 @@
+#splicing_factor	Pvalue	fdr	Predicted_direction	upup	updn	dnup	dndn
+SRSF2_p53mutant	1.0	1.0	NA	0	0	0	0
+HNRNPC	0.169362084456	0.846810422282	predicted:up	43	2	9	2
+MSI1	1.0	1.0	NA	0	0	0	0
+HNRNPA1	0.38080495356	1.0	predicted:up	5	7	2	8
+HNRNPU	0.0940056853294	0.658039797306	predicted:dn	6	11	1	13
+SF1	1.0	1.0	predicted:dn	8	0	7	0
+U2AF1_mutant	1.0	1.0	NA	0	0	0	0
+RBM4	1.0	1.0	NA	0	0	0	0
+HNRNPH1	5.70434385785e-06	8.55651578677e-05	predicted:up	21	0	3	9
+HNRNPA2B1	1.0	1.0	NA	6	4	6	4
+PTBP1	1.0	1.0	predicted:dn	0	0	0	2
+ESRP1_2	1.0	1.0	NA	2	3	2	3
+SF3B1_mutant	1.0	1.0	NA	0	0	0	0
+HNRNPF	1.0	1.0	predicted:dn	1	4	1	8
+HNRNPM	0.569230769231	1.0	predicted:dn	6	1	5	3
