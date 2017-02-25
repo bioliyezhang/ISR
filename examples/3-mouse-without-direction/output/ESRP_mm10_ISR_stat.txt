@@ -1,0 +1,7 @@
+#splicing_factor	Pvalue	fdr	Predicted_direction	upup	updn	dnup	dndn
+SFS10	1.0	1.0	NA	0	0	0	0
+PTBP1_NPC	1.0	1.0	predicted:dn	2	0	1	0
+U2AF1_MUTANT	1.0	1.0	NA	0	0	0	0
+PTBP1_ES	1.0	1.0	predicted:up	1	1	0	2
+ESRP1_2	3.27771337004e-05	0.000196662802202	predicted:up	16	2	1	10
+PTBP2_NPC	1.0	1.0	NA	0	0	0	0
