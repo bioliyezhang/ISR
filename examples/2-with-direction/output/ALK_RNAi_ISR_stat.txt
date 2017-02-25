@@ -1,0 +1,25 @@
+#splicing_factor	Pvalue	fdr	Predicted_direction	upup	updn	dnup	dndn
+RBM4	NA	NA,not tested due to No change in SF	no prediction Made	0	0	0	0
+PTBP1.1.KNOCKDOWN	9.2930663503e-07	6.50514644521e-06	known:up	57	26	20	49
+PTBP1_SKIPE9	3.15450561702e-05	0.000126180224681	predicted:up	51	33	21	56
+SF1	1.0	1.0	known:up	0	29	0	29
+HNRNPH1	NA	NA,not tested due to No change in SF	no prediction Made	12	16	30	16
+ESRP1_2	8.47514963612e-05	0.000254254489084	known:up	24	7	3	14
+HNRNPM.1	0.939670674688	0.939670674688	known:up	23	43	17	18
+U2AF_MUTANT.1	1.0	1.0	NA	0	0	0	0
+HNRNPU	0.112033916981	0.224067833963	predicted:up	44	15	33	23
+HNRNPA2B1	NA	NA,not tested due to No change in SF	no prediction Made	18	28	38	14
+PTBP1	0.52380952381	0.939670674688	known:up	1	1	1	4
+HNRNPC	NA	NA,not tested due to No change in SF	no prediction Made	43	22	41	14
+HNRNPF	0.957394308476	0.957394308476	known:up	23	12	26	6
+HNRNPM	0.12144870833	0.242897416659	known:up	21	21	10	20
+PTBP1.2.OVEREXP	2.85573683001e-07	3.99803156201e-06	known:up	73	41	30	72
+MSI1	NA	NA,not tested due to No change in SF	no prediction Made	0	0	0	0
+HNRNPA1	NA	NA,not tested due to No change in SF	no prediction Made	16	38	27	16
+SF3B1_MUTANT	1.0	1.0	NA	0	0	0	0
+SRSF2_P53MUTANT	1.0	1.0	NA	0	0	0	0
+HNRNPA1.2	NA	NA,not tested due to No change in SF	no prediction Made	27	25	11	27
+HNRNPA1.1	NA	NA,not tested due to No change in SF	no prediction Made	3	6	5	3
+U2AF1_MUTANT	1.0	1.0	NA	0	0	0	0
+HNRNPA2B1.1	NA	NA,not tested due to No change in SF	no prediction Made	15	14	2	15
+HNRNPH1.1	NA	NA,not tested due to No change in SF	no prediction Made	6	6	5	3
