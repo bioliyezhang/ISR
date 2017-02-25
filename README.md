@@ -1,3 +1,4 @@
+
 Infer Splicing Regulator(ISR)
 
 ISR is a Python based tool to infer Key splicing regulator from differential splicing results.
@@ -15,17 +16,18 @@ Currently, ISR only support the Skipping Exon analysis.
    (D) Numpy package: http://www.numpy.org/
    
 2. Installation
-within the folder:
+   within the folder:
 
-Python setup.py install
+   Python setup.py install
 
-to install it to other directory
+   to install it to other directory
 
-Python setup.py install --prefix=="PATH of your choise"
+   Python setup.py install --prefix=="PATH of your choise"
+
 
 3. Usage
 
-3.1 Input requirement
+ 3.1 Input requirement
    ISR support standard MISO (default), MATS and BED format as input.
    
    Note: for MATS output, current version of ISR can only handle SE (Skipped Exon) analysis output.
